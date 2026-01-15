@@ -1,6 +1,6 @@
 # Biografia do Autor/Empresa
 
-Lucas Nogueira é fundador de uma consultoria de marketing digital especializada na construção de ativos digitais para empresas que operam em mercados internacionais. Com foco em clientes de médio e pequeno porte localizados em países de moeda forte (como EUA, Canadá e Reino Unido), seu trabalho consiste em desenvolver websites, landing pages e frontends para aplicativos e dashboards que atendem a negócios com alta margem de lucro.
+Lucas Nogueira é fundador de uma consultoria de marketing digital especializada na construção de ativos digitais para empresas localizadas em países de moeda forte (como EUA, Canadá e Reino Unido). Seu trabalho atende dois perfis principais: (1) empresas B2B de médio porte que operam em mercados locais, nacionais ou mesmo internacionais, e (2) empresas B2C locais estabelecidas — como clínicas de estética, consultórios dentários, escritórios de advocacia, restaurantes premium e outros negócios de serviços — que possuem caixa e margem robustos para investir em posicionamento digital de qualidade. Seu trabalho consiste em desenvolver websites, landing pages e frontends para aplicativos e dashboards que atendem a negócios com capacidade de investimento significativo (projetos de até $10.000).
 
 Com uma abordagem que une expertise técnica e visão de negócios, Lucas Nogueira acumula uma trajetória sólida em gestão e desenvolvimento de projetos complexos. Sua experiência abrange:
 

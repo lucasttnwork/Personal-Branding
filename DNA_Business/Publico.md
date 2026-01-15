@@ -3,9 +3,11 @@
 ## a) Dados Demográficos
 - Nome: James
 - Idade: 38-55
-- Breve Descrição: Fundador, CEO ou Diretor de uma empresa de pequeno ou médio porte (PME), tipicamente um SaaS B2B ou B2C, uma empresa local de alto valor (clinica de estetica/dental ou outra empresa local com faturamento acima dos $ 1000k mensais). Ele é um especialista em seu mercado, mas se sente frustrado e limitado pela sua presença digital, que não reflete a qualidade do seu serviço/produto.
-- Mercado-Alvo: PMEs de médio e alto ticket nos Estados Unidos, Canadá ou Reino Unido.
-- Avatar (Perfil Representativo do Cliente): James é o fundador de uma empresa de software B2C com 25 funcionários em Londres. O produto é excelente, mas o dashboard parece datado e o site não gera leads qualificados, forçando-o a depender de prospecção manual e indicações.
+- Breve Descrição: Fundador, CEO ou Diretor de uma empresa estabelecida de pequeno ou médio porte (PME). Pode ser (1) uma empresa B2B como SaaS ou consultoria, ou (2) uma empresa B2C local de alto valor — clínica de estética, consultório dental, escritório de advocacia, restaurante premium, estúdio fitness, spa, ou outro negócio de serviços com faturamento sólido e margens saudáveis. Ele é um especialista em seu mercado, mas se sente frustrado e limitado pela sua presença digital, que não reflete a qualidade do seu serviço/produto. Tem capacidade de investir entre $5.000 e $10.000 em posicionamento digital.
+- Mercado-Alvo: Empresas B2B e B2C estabelecidas de médio e alto ticket localizadas nos Estados Unidos, Canadá ou Reino Unido.
+- Avatares (Perfis Representativos):
+  - **Avatar B2B:** James é o fundador de uma empresa de software B2B com 25 funcionários em Londres. O produto é excelente, mas o dashboard parece datado e o site não gera leads qualificados, forçando-o a depender de prospecção manual e indicações.
+  - **Avatar B2C:** Sarah é dona de uma clínica de estética premium em Austin, Texas. Fatura $80k/mês com tratamentos de alto valor, mas seu site parece genérico e não transmite a experiência premium que ela oferece presencialmente. Ela perde clientes para concorrentes com presença digital mais sofisticada.
 
 ## b) Problema Principal
 - O Problema Principal Que Enfrentam: Meu negócio tem uma oferta de alto valor, mas nossa presença digital amadora nos faz parecer pequenos e pouco confiáveis, o que sabota nossas vendas e nos impede de escalar de forma previsível.
@@ -61,7 +63,7 @@
 - Não querem mais ser o gerente de projetos que precisa coordenar um designer, um programador e um copywriter que não se falam.
 - Não querem mais receber um conjunto de arquivos e um "boa sorte", sem um plano claro de como aquilo vai gerar vendas.
 - Não querem mais contratar especialistas "puros" (só técnico ou só marqueteiro) que não têm uma visão completa do negócio.
-- Não querem mais soluções genéricas que não entendem as nuances de um negócio B2B de médio e alto ticket.
+- Não querem mais soluções genéricas que não entendem as nuances de um negócio de médio e alto ticket (seja B2B ou B2C premium).
 
 ## d) Transformação Primária
 - Se um Gênio Pudesse Estalar os Dedos e Dar-lhes a Solução Perfeita, Como Seria a Vida Deles?: Teriam uma presença digital coesa e profissional que funciona como um ativo estratégico: um site que educa e captura leads qualificados, landing pages que convertem tráfego pago com eficiência e um frontend de produto que impressiona e retém clientes. Tudo isso integrado a um sistema de automação que nutre os leads e agenda demos, liberando-os para focar no crescimento do negócio.

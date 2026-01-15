@@ -34,7 +34,7 @@ Analogias:
 
 # A Solução
 
-Promessa Principal: Eu construo para fundadores de empresas de médio e alto ticket um sistema digital que capta e qualifica clientes de forma previsível, eliminando sua dependência de indicações e prospecção manual, em até 90 dias.
+Promessa Principal: Eu construo para fundadores de empresas B2B e B2C de médio e alto ticket um sistema digital que capta e qualifica clientes de forma previsível, eliminando sua dependência de indicações e prospecção manual, em até 90 dias.
 
 ## Mecanismo Único da Solução
 
