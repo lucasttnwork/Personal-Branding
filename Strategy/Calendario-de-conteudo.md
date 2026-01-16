@@ -20,43 +20,43 @@
 
 **Dia 1 — Descoberta**
 
-*Tema:* The Real Problem with B2B Websites
+_Tema:_ The Real Problem with B2B Websites
 
-*Ideia:* "Your website looks professional but generates zero leads. Here's the hidden bottleneck killing your conversions" — A provocação inicial que agita a dor e introduz o conceito de Strategic Digital Dissonance.
+_Ideia:_ "Your website looks professional but generates zero leads. Here's the hidden bottleneck killing your conversions" — A provocação inicial que agita a dor e introduz o conceito de Strategic Digital Dissonance.
 
-*Formato:* Reels (30-60s)
+_Formato:_ Reels (30-60s)
 
 **Dia 2 — Experiência Própria**
 
-*Tema:* Building My Own System
+_Tema:_ Building My Own System
 
-*Ideia:* Day 1 of building my agency's conversion system from scratch — Behind-the-scenes of the initial strategy session where I map out my own customer journey and conversion architecture.
+_Ideia:_ Day 1 of building my agency's conversion system from scratch — Behind-the-scenes of the initial strategy session where I map out my own customer journey and conversion architecture.
 
-*Formato:* Stories (série de 5-7 stories com narração)
+_Formato:_ Stories (série de 5-7 stories com narração)
 
 **Dia 3 — Descoberta**
 
-*Tema:* The Ferrari with a Beetle Engine
+_Tema:_ The Ferrari with a Beetle Engine
 
-*Ideia:* "Why beautiful websites don't sell: The analogy that changed how I approach digital assets" — Explicação visual da analogia da Ferrari usando carrossel educativo.
+_Ideia:_ "Why beautiful websites don't sell: The analogy that changed how I approach digital assets" — Explicação visual da analogia da Ferrari usando carrossel educativo.
 
-*Formato:* Carrossel (6-8 slides)
+_Formato:_ Carrossel (6-8 slides)
 
 **Dia 4 — Consideração**
 
-*Tema:* The F.O.C.O. Method Introduction
+_Tema:_ The F.O.C.O. Method Introduction
 
-*Ideia:* "How I'm building my agency's website using the same 4-step method I use for $30k+ clients" — Introdução ao framework Foundation, Orchestration, Construction, Operation com exemplos visuais.
+_Ideia:_ "How I'm building my agency's website using the same 4-step method I use for $30k+ clients" — Introdução ao framework Foundation, Orchestration, Construction, Operation com exemplos visuais.
 
-*Formato:* Carrossel educativo (8-10 slides)
+_Formato:_ Carrossel educativo (8-10 slides)
 
 **Dia 5 — Descoberta**
 
-*Tema:* Common Conversion Killers
+_Tema:_ Common Conversion Killers
 
-*Ideia:* Poll: "Which one is killing your conversions right now?" — Enquete interativa com 4 opções de bottlenecks comuns (slow loading, confusing message, no automation, amateur design).
+_Ideia:_ Poll: "Which one is killing your conversions right now?" — Enquete interativa com 4 opções de bottlenecks comuns (slow loading, confusing message, no automation, amateur design).
 
-*Formato:* Stories interativos
+_Formato:_ Stories interativos
 
 ---
 
@@ -64,43 +64,43 @@
 
 **Dia 6 — Experiência Compartilhada (UGC)**
 
-*Tema:* Client Transformation
+_Tema:_ Client Transformation
 
-*Ideia:* Before/After: "How this SaaS founder went from 12 demos/month to 40+ with a conversion-focused frontend" — Repost de métricas reais de cliente (com permissão) mostrando dashboard de crescimento.
+_Ideia:_ Before/After: "How this SaaS founder went from 12 demos/month to 40+ with a conversion-focused frontend" — Repost de métricas reais de cliente (com permissão) mostrando dashboard de crescimento.
 
-*Formato:* Feed (imagem com dados + caption storytelling)
+_Formato:_ Feed (imagem com dados + caption storytelling)
 
 **Dia 7 — Consideração**
 
-*Tema:* Foundation Phase Deep Dive
+_Tema:_ Foundation Phase Deep Dive
 
-*Ideia:* "Building my agency site: Day 3 — The Foundation phase where I define my ICP, positioning, and conversion strategy" — Mostrando o processo de criação do blueprint estratégico com tela do Figma/Miro.
+_Ideia:_ "Building my agency site: Day 3 — The Foundation phase where I define my ICP, positioning, and conversion strategy" — Mostrando o processo de criação do blueprint estratégico com tela do Figma/Miro.
 
-*Formato:* Reels (60-90s com screen recording)
+_Formato:_ Reels (60-90s com screen recording)
 
 **Dia 8 — Conversão**
 
-*Tema:* The Cost of Inaction
+_Tema:_ The Cost of Inaction
 
-*Ideia:* "Losing just ONE $15k client per quarter because of an amateur website costs you $60k/year. Here's how to fix it" — CTA suave para diagnóstico gratuito.
+_Ideia:_ "Losing just ONE $15k client per quarter because of an amateur website costs you $60k/year. Here's how to fix it" — CTA suave para diagnóstico gratuito.
 
-*Formato:* Carrossel (5 slides com breakdown financeiro)
+_Formato:_ Carrossel (5 slides com breakdown financeiro)
 
 **Dia 9 — Descoberta**
 
-*Tema:* Agency Model is Broken
+_Tema:_ Agency Model is Broken
 
-*Ideia:* "Why hiring a designer, a developer, and a marketer separately is setting you up for failure" — Explicação do problema da fragmentação com analogia dos especialistas médicos.
+_Ideia:_ "Why hiring a designer, a developer, and a marketer separately is setting you up for failure" — Explicação do problema da fragmentação com analogia dos especialistas médicos.
 
-*Formato:* Reels (provocativo, direto, 30-45s)
+_Formato:_ Reels (provocativo, direto, 30-45s)
 
 **Dia 10 — Consideração**
 
-*Tema:* Synchronous Conversion Architecture
+_Tema:_ Synchronous Conversion Architecture
 
-*Ideia:* Question box: "What's the biggest disconnect between your website and your sales process?" — Abertura para conversas na DM e coleta de insights da audiência.
+_Ideia:_ Question box: "What's the biggest disconnect between your website and your sales process?" — Abertura para conversas na DM e coleta de insights da audiência.
 
-*Formato:* Stories (caixa de perguntas + follow-up com respostas anônimas)
+_Formato:_ Stories (caixa de perguntas + follow-up com respostas anônimas)
 
 ---
 
@@ -108,43 +108,43 @@
 
 **Dia 11 — Conversão**
 
-*Tema:* Limited Availability
+_Tema:_ Limited Availability
 
-*Ideia:* "Opening 2 spots for March: Premium B2B founders ready to turn their digital presence into a predictable client acquisition system" — Anúncio de vagas com prova social e senso de urgência.
+_Ideia:_ "Opening 2 spots for March: Premium B2B founders ready to turn their digital presence into a predictable client acquisition system" — Anúncio de vagas com prova social e senso de urgência.
 
-*Formato:* Feed (design profissional + CTA claro)
+_Formato:_ Feed (design profissional + CTA claro)
 
 **Dia 12 — Descoberta**
 
-*Tema:* The Orchestra Analogy
+_Tema:_ The Orchestra Analogy
 
-*Ideia:* "Your website is an orchestra where everyone plays a different song. Here's how to make them play in sync" — Explicação visual da Synchronous Conversion Architecture.
+_Ideia:_ "Your website is an orchestra where everyone plays a different song. Here's how to make them play in sync" — Explicação visual da Synchronous Conversion Architecture.
 
-*Formato:* Carrossel (7 slides com metáfora visual)
+_Formato:_ Carrossel (7 slides com metáfora visual)
 
 **Dia 13 — Consideração**
 
-*Tema:* Orchestration Phase Reveal
+_Tema:_ Orchestration Phase Reveal
 
-*Ideia:* "Building my agency site: Day 7 — Creating the wireframes and visual hierarchy that will guide visitors from curiosity to conversion" — Behind-the-scenes do processo de design com tela do Figma.
+_Ideia:_ "Building my agency site: Day 7 — Creating the wireframes and visual hierarchy that will guide visitors from curiosity to conversion" — Behind-the-scenes do processo de design com tela do Figma.
 
-*Formato:* Reels (screen recording + narração, 60s)
+_Formato:_ Reels (screen recording + narração, 60s)
 
 **Dia 14 — Conversão**
 
-*Tema:* ROI Guarantee
+_Tema:_ ROI Guarantee
 
-*Ideia:* "Why I offer a 90-day performance guarantee (and why most agencies can't)" — Explicação da garantia blindada e o que a torna possível (Synchronous Conversion Architecture).
+_Ideia:_ "Why I offer a 90-day performance guarantee (and why most agencies can't)" — Explicação da garantia blindada e o que a torna possível (Synchronous Conversion Architecture).
 
-*Formato:* Stories (série de 6-8 stories explicativas)
+_Formato:_ Stories (série de 6-8 stories explicativas)
 
 **Dia 15 — Descoberta**
 
-*Tema:* The Real Metric
+_Tema:_ The Real Metric
 
-*Ideia:* "Stop measuring website success by traffic. Start measuring by qualified demos booked" — Shift de mindset sobre métricas que importam para B2B de alto ticket.
+_Ideia:_ "Stop measuring website success by traffic. Start measuring by qualified demos booked" — Shift de mindset sobre métricas que importam para B2B de alto ticket.
 
-*Formato:* Reels (educativo, direto, 45-60s)
+_Formato:_ Reels (educativo, direto, 45-60s)
 
 ---
 
@@ -210,4 +210,4 @@
 
 - Demonstre expertise através de execução, não apenas teoria
 
-*Obs.: Posso cometer erros. Por favor, verifique fatos, números e respostas.*
+_Obs.: Posso cometer erros. Por favor, verifique fatos, números e respostas._
