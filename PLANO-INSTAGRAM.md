@@ -13,9 +13,9 @@ Criacao completa do ecossistema de personal branding para Lucas Nogueira no Inst
 
 ## ATUALIZAÇÃO - O QUE JÁ FOI FEITO
 
-✅ **Gmail criado:** thelucasnogueira11@gmail.com
-✅ **Instagram criado:** @thelucasnogueira_
-✅ **Bio configurada:** "I help B2B founders turn amateur websites into conversion systems that attract premium clients predictably."
+✅ **Gmail criado:** thelucasnogueira01@gmail.com
+✅ **Instagram criado:** @the.lucasnogueira
+✅ **Bio configurada:** "I help companies turn amateur websites into conversion systems that attract premium clients predictably."
 ✅ **2FA ativado no Gmail**
 ✅ **Credenciais salvas no .env**
 
@@ -24,7 +24,7 @@ Criacao completa do ecossistema de personal branding para Lucas Nogueira no Inst
 ## Fase 1: Criacao do Gmail ✅ CONCLUÍDA
 
 ### Email criado
-`thelucasnogueira11@gmail.com`
+`thelucasnogueira01@gmail.com`
 
 **Informacoes:**
 - Senha: LucasN0gueira@2024!Brand
@@ -37,13 +37,13 @@ Criacao completa do ecossistema de personal branding para Lucas Nogueira no Inst
 
 ### Dados do Perfil
 
-**Handle:** @thelucasnogueira_
+**Handle:** @the.lucasnogueira
 
 **Nome de exibicao:** Lucas Nogueira
 
 **Bio (texto unico - recomendado para B2B):**
 ```
-I help B2B founders turn amateur websites into conversion systems that attract premium clients predictably.
+I help companies turn amateur websites into conversion systems that attract premium clients predictably.
 ```
 
 **Tipo de conta:** Business ou Creator > Categoria: "Marketing Agency" ou "Entrepreneur"
@@ -60,7 +60,7 @@ I help B2B founders turn amateur websites into conversion systems that attract p
 
 | Highlight | Conteudo |
 |-----------|----------|
-| **Results** | Metricas before/after, ROI, cases |
+| **Results** | Metricas before/after, ROI, cases    |
 | **How It Works** | Metodo F.O.C.O. explicado visualmente |
 | **About Me** | Jornada pessoal, valores, credenciais |
 | **Common Bottlenecks** | Erros de sites B2B, conversion killers |
