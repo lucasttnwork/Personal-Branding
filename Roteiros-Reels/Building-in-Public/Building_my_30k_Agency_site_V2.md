@@ -67,7 +67,7 @@
 
 🎦 **Close-up no rosto, workspace natural ao fundo, laptop parcialmente visível. Expressão confiante mas acessível.**
 
-🗣 "I'm building my entire agency using the same methodology that top-tier agencies charge thirty thousand dollars or more for. It's called the F.O.C.O. Method. And I'm going to show you why most agencies can't do this."
+🗣 "I'm building my entire agency using the same method that top-tier agencies charge thirty thousand dollars or more for. It's called the F.O.C.O. framework. And I'm going to show you why most agencies can't do this."
 
 🟨 **Texto aparece:** "Building a $30k-level agency site"
 ✂️ **Corte seco**
@@ -78,7 +78,7 @@
 
 🎦 **Screen recording: tela dividida mostrando "site genérico de template" vs seu dashboard de projeto com as 4 fases do F.O.C.O.**
 
-🗣 "Generally speaking, agencies sell you pieces. A designer here. A developer there. A marketer somewhere else. And they never connect the dots — because, in practice, they don't have a unified system. They're improvising."
+🗣 "Generally speaking, agencies sell you pieces. A designer here. A developer there. A marketer somewhere else. And they never connect the dots — because, in practice, they don't really have a unified system. They're improvising."
 
 🟨 **Texto na esquerda:** "Fragmented"
 🟨 **Texto na direita:** "Unified System"
@@ -91,7 +91,7 @@
 
 🎦 **Screen recording: seu dashboard de projeto mostrando as 4 fases com indicadores de progresso. Você apontando para cada fase.**
 
-🗣 "F.O.C.O. is four phases. Foundation — mapping the business strategy, the ideal client, the positioning. No guessing."
+🗣 "F.O.C.O. is a framework with four phases. Foundation — mapping the business strategy, the ideal client, the positioning. Every key detail is defined and revised. No guessing."
 
 🟨 **"F = Foundation" aparece com animação de checkmark**
 
@@ -99,7 +99,7 @@
 
 🟨 **"O = Orchestration" aparece**
 
-🗣 "Construction — clean code, fast loading, built to scale."
+🗣 "Construction — clean website, fast loading, built to scale."
 
 🟨 **"C = Construction" aparece**
 
@@ -119,9 +119,9 @@
 🔊 **SFX: batida sutil**
 
 🎦 **Zoom agressivo no rosto**
-🟨 **Texto grande:** "A website isn't an asset until it generates revenue without you."
+🟨 **Texto grande:** "A website isn't an asset until it generates revenue for you."
 
-🗣 "A website isn't an asset until it generates revenue without you. (In other words, if it doesn't book calls while you sleep, it's just a digital brochure.)"
+🗣 "A website isn't an asset until it generates revenue for you. (In other words, if it doesn't book calls while you sleep, it's just an expensive digital brochure.)"
 
 **[PRE-CTA — texto na tela:]** 🟨 "Save this if you're building something"
 
@@ -133,7 +133,7 @@
 
 🎦 **Screen recording rápido: preview do site em construção, wireframe evoluindo, terminal com código rodando.**
 
-🗣 "So I'm building my own business using the same process that premium agencies use for their high-ticket clients. Same methodology, same rigor. And you'll see exactly why this level of work commands thirty thousand dollars or more."
+🗣 "So I'm building my own business using the same process that premium agencies use for their high-ticket clients. Same methodology, same rigor. And you'll see exactly why this level of work could be worth thirty thousand dollars or more."
 
 🎦 **Volta para você na câmera**
 
