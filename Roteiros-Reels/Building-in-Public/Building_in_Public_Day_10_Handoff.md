@@ -61,7 +61,7 @@ Screen recording: You show the documented design specs — but framed as the PRO
 
 **Narration:**
 
-*Here's what usually happens: Designer delivers a pretty picture. Developer asks "what's the spacing here?" Designer says "I don't know, like... medium?" Developer guesses. Multiply that by 100 decisions. You get a site that's technically the same design but feels off. The fonts are slightly different. The spacing is inconsistent. The buttons don't match. And you can't pinpoint why — it just doesn't feel premium anymore.*
+*Here's what usually happens: Designer delivers a decent-looking mockup. Developer asks "what's the spacing here?" Designer says "I don't know, like... medium?" Developer guesses. Multiply that by 100 decisions. You get a site that's technically the same design but feels off. The fonts are slightly different. The spacing is inconsistent. The buttons don't match. And you can't pinpoint why — it just doesn't feel premium anymore.*
 
 ---
 
