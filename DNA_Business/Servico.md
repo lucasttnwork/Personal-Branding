@@ -26,7 +26,7 @@ Dissonância Digital Estratégica: A falha em tratar a presença digital como um
 Definições:
 
 - Técnica: Empresas tratam seus ativos digitais — site, landing pages, automações — como componentes isolados, contratando especialistas diferentes para cada um. Isso gera uma Dissonância Digital Estratégica: o design não é alinhado à conversão, a tecnologia não suporta o funil de vendas e a estratégia de negócio se perde no meio do caminho. O resultado é um sistema que, apesar de ter partes funcionalmente corretas, não opera de forma coesa para atingir o objetivo principal: transformar visitantes em clientes de alto valor.
-- Simples: Sua presença online é como uma orquestra onde cada músico toca uma música diferente. O designer faz algo bonito, o programador faz funcionar e o marketing atrai pessoas. Mas como ninguém segue a mesma partitura, o resultado é um barulho que espanta os clientes em vez de encantá-los.
+- Simples: Sua presença online é como uma orquestra onde cada músico toca uma música diferente. O designer segue sua visão, o programador segue a dele, e o marketing segue outra completamente. Mas como ninguém segue a mesma partitura, o resultado é um barulho que espanta os clientes em vez de encantá-los.
 - Pitch: A razão pela qual você não atrai os clientes de elite que merece não é a falta de tráfego, mas um posicionamento digital medíocre que faz sua solução de alta qualidade parecer "apenas mais uma".
 
 Analogias:

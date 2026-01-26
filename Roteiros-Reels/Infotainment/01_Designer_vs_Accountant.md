@@ -1,5 +1,5 @@
 # ROTEIRO INFOTAINMENT — 30s
-## "Your Designer Gave You a Beautiful Website. Your Accountant Is Wondering Where the Leads Are."
+## "Your Designer Gave You a Generic Website. Your Accountant Is Wondering Where the Leads Are."
 
 ---
 
@@ -11,7 +11,7 @@
 - **Plataforma:** Instagram Reels / TikTok
 - **Duração:** 30 segundos
 - **Formato:** Infotainment (myth-busting)
-- **Promessa:** Revelar por que um site "bonito" pode ser a razão de perder clientes de alto valor
+- **Promessa:** Revelar por que um site "mediano" pode ser a razão de perder clientes de alto valor
 
 **Premissa assumida:** Vou abordar a crença limitante #1 do público — "basta um site bonitinho para parecer profissional."
 
@@ -19,11 +19,11 @@
 
 ## Opções de Hook
 
-1. **Direto:** "Your designer gave you a beautiful website. Your accountant is wondering where the leads are."
+1. **Direto:** "Your designer gave you a generic website. Your accountant is wondering where the leads are."
 2. **Provocativo:** "If your website looks like a million bucks but converts like a free template… you don't have a website. You have expensive decoration."
 3. **Cinematográfico:** "I've seen $15k websites do absolutely nothing. Here's why."
-4. **Diagnóstico:** "Beautiful website + zero leads = Strategic Digital Dissonance."
-5. **Contraste:** "The difference between a pretty website and a profitable one is a 3-second test."
+4. **Diagnóstico:** "Generic website + zero leads = Strategic Digital Dissonance."
+5. **Contraste:** "The difference between an average website and a profitable one is a 3-second test."
 
 ---
 
@@ -31,14 +31,14 @@
 
 **[0:00-0:04 | VPB1 — HOOK]**
 🎦 *Close-up no rosto. Expressão séria, como quem vai revelar algo.*
-🟨 TEXT: "Pretty ≠ Profitable"
-🗣 "Your designer gave you a beautiful website. Your accountant is wondering where the leads are."
+🟨 TEXT: "Generic ≠ Profitable"
+🗣 "Your designer gave you a generic website. Your accountant is wondering where the leads are."
 🔊 SFX: *Cash register "cha-ching" invertido (som de dinheiro saindo)*
 
 ---
 
 **[0:05-0:12 | VPB2 — PROBLEMA]**
-🎦 *Você segura uma foto impressa de um site bonito. Vira a foto e mostra um "0" escrito atrás.*
+🎦 *Você segura uma foto impressa de um site genérico. Vira a foto e mostra um "0" escrito atrás.*
 🟨 TEXT: "Design ≠ Conversion"
 🗣 "Here's the thing: looking premium and *being* premium are two different games. Most businesses play the wrong one."
 

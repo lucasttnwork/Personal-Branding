@@ -37,7 +37,7 @@
 
 You at the setup, looking directly at camera.
 
-**Text on Screen:** "The hidden reason your pretty site doesn't convert"
+**Text on Screen:** "The hidden reason your site doesn't convert"
 
 **Narration:**
 
@@ -61,7 +61,7 @@ Screen recording: Simple boxes being arranged in Figma. Hero → Problem → Sol
 
 **Narration:**
 
-*Watch what I'm doing. Just boxes. No colors. No images. Because before making it pretty, I need to know: does the information flow in the right order? Hero section answers "Is this for me?" Problem section validates their frustration. Solution shows the path forward. Proof builds trust. Pricing comes AFTER value is established — not before. Most "pretty" sites get this order wrong. They look great but the information is scattered. The visitor's brain works harder. And when brains work harder, they leave.*
+*Watch what I'm doing. Just boxes. No colors. No images. Because before making it polished, I need to know: does the information flow in the right order? Hero section answers "Is this for me?" Problem section validates their frustration. Solution shows the path forward. Proof builds trust. Pricing comes AFTER value is established — not before. Most generic sites get this order wrong. They look fine but the information is scattered. The visitor's brain works harder. And when brains work harder, they leave.*
 
 ---
 
@@ -71,7 +71,7 @@ Screen recording: You annotate the boxes with journey stage labels.
 
 **Narration:**
 
-*This is why expensive redesigns fail. The designer made it beautiful. But the structure was never engineered for conversion. So you get compliments on your site — "love the design!" — but no leads. Pretty doesn't pay the bills. Structure that guides visitors from curious to convinced? That does.*
+*This is why expensive redesigns fail. The site looks fine. But the structure was never engineered for conversion. So you get "nice website" — but no leads. Fine doesn't close deals. Structure that guides visitors from curious to convinced? That does.*
 
 ---
 
